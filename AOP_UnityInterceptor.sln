@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP_UnityInterceptor", "AOP_UnityInterceptor\AOP_UnityInterceptor.csproj", "{AA7F7A66-1FCA-44AE-93AF-35A7698B4E0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP_UnityInterceptor", "AOPUnityInterceptor\AOP_UnityInterceptor.csproj", "{AA7F7A66-1FCA-44AE-93AF-35A7698B4E0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
